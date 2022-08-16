@@ -1,0 +1,22 @@
+{
+    "name": "justfeel/response",
+    "description": "A plugin made for custom response",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Justfeel\\Response\\": "src/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "fsarikaya96",
+            "email": "fsarikaya96@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
