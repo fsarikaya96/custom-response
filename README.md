@@ -1,6 +1,6 @@
 # Making Laravel Custom Response
 
-![License]https://img.shields.io/github/license/fsarikaya96/custom-response)
+![License](https://img.shields.io/github/license/fsarikaya96/custom-response)
 ![SIZE](https://img.shields.io/github/repo-size/fsarikaya96/custom-response?label=size)
 
 **Installation**
