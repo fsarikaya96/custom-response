@@ -4,7 +4,7 @@ namespace Justfeel\Response;
 
 class ResponseResult
 {
-    public static function generate(bool $success = true, $message = null, int $statusCode = 200) : object
+    public static function generate(bool $success = true, $message = null, int $statusCode = 200)
     {
         if ($success) {
             return response()->json(['success' => $success, 'message' => $message], $statusCode);
